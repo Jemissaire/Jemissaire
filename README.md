@@ -10,7 +10,7 @@ Citizens. Nations. Multilateral Organisations. Humanity.<br> </p>
 
 <h3 align="center"> <b>Latest Posts </b> </h3>
   <p align="center"> 
-    - <a href="https://globusoperandi.com/uae-eyes-on-a-post-quantum-world/"> UAE: eyes on a post-quantum </a>
+    - <a href="https://globusoperandi.com/uae-eyes-on-a-post-quantum-world/"> UAE: eyes on a post-quantum </a><br>
     - <a href="https://globusoperandi.com/antipodes-in-arms-on-cyber-security/"> Antipodes in arms on cyber security? </a> <br>
     - <a href="https://globusoperandi.com/kiribati-allure-of-the-dragon/"> Kiribati: allure of the dragon? </a> <br>
     - <a href="https://globusoperandi.com/gagauzia-looking-to-whom/"> Gagauzia: looking to whom? </a> <br>
